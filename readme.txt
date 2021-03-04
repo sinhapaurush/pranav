@@ -8,7 +8,8 @@ For XAMPP:-
 Command for cloning directly without copying, pretending that XAMPP in installed in C:/, so 
 open GIT BASH, enter command: 
 cd C:/xampp/htdocs
-git clone
+git clone https://github.com/sinhapaurush/pranav.git
+Now start Apache and your ae ready to go!
 }
  
  Start Apache server from XAMPP Control Panel
