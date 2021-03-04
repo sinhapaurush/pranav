@@ -3,6 +3,14 @@ To view this site completely, use a Server environment, such as XAMPP, WAMPP, DR
 XAMPP is recommended.
 For XAMPP:-
  COPY AND PASTE ALL FILES IN htdocs folder
+ 
+ {You can clone this project using GitHub as well, GitBash must be installed in your computer.
+Command for cloning directly without copying, pretending that XAMPP in installed in C:/, so 
+open GIT BASH, enter command: 
+cd C:/xampp/htdocs
+git clone
+}
+ 
  Start Apache server from XAMPP Control Panel
  open http://localhost in your browser.
  Regards, 
